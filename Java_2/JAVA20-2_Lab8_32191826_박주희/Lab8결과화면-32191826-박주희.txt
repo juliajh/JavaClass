@@ -1,0 +1,135 @@
+DynamicArray add&print
+dynamically increase array size= 6
+dynamically increase array size= 7
+dynamically increase array size= 8
+dynamically increase array size= 9
+dynamically increase array size= 10
+dynamically increase array size= 11
+dynamically increase array size= 12
+dynamically increase array size= 13
+dynamically increase array size= 14
+DynamicArray Test Iterable<E>
+Seoul
+Tokyo
+Beijing
+New Delhi
+Manila
+Pyongyang
+Tehran
+Singapore
+Tehran
+Athens
+Copenhagen
+Berlin
+Moscow
+Monaco
+
+DynamicArray Test remove by iterator
+Seoul
+Beijing
+New Delhi
+Manila
+Pyongyang
+Tehran
+Singapore
+Tehran
+Athens
+Copenhagen
+Berlin
+Moscow
+Monaco
+DynamicArray Test remove all by iterator
+
+Test insert
+Bangkok
+Seoul
+Tokyo
+Beijing
+Kuwait
+New Delhi
+Manila
+
+Test get
+index 1=Seoul
+index 4=Kuwait
+
+Test clear
+
+
+Adapter ArrayList test add&print
+Chicago
+Athens
+Tokyo
+Pyongyang
+Tehran
+Singapore
+
+Chicago
+Athens
+Pyongyang
+Tehran
+Singapore
+ArrayList Test remove all by iterator
+
+Add again and Test insert
+Chicago
+Pyongyang
+Manaco
+Tehran
+New Delhi
+
+ArrayList Test get
+index 0=Chicago
+index 3=Tehran
+
+ArrayList Test clear
+
+
+Adapter LinkedList test add&print
+Juhee
+Juyoung
+Jungwoog
+Geonwoo
+Jessi
+
+Juhee
+Juyoung
+Geonwoo
+Jessi
+LinkedList Test remove all by iterator
+
+LinkedList Test insert
+Rosa
+Juhee
+Juyoung
+Jungwoog
+Joo
+
+LinkedList Test get
+index 0=Rosa
+index 1=Juhee
+
+LinkedList Test clear
+
+
+Adapter Vector test add&print
+Cat
+Dog
+Monkey
+
+Dog
+Monkey
+Vector Test remove all by iterator
+
+Vector Test insert
+Duck
+Zebra
+Butterfly
+Koala
+Bird
+
+LinkedList Test get
+index 3=Koala
+index 1=Zebra
+
+LinkedList Test clear
